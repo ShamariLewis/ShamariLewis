@@ -14,3 +14,40 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hello, I'm Shamari Lewis 👋
+
+## Full Stack Software Engineer
+
+### About Me
+I am a passionate and experienced Full Stack Software Engineer with expertise in a wide range of technologies. My journey in the world of development has equipped me with skills in both frontend and backend technologies, allowing me to create robust and scalable applications.
+
+### Tech Stack
+- **Languages**: JavaScript, TypeScript
+- **Backend**: Node.js, Express
+- **Frontend**: HTML, CSS, Sass, React
+- **Testing**: Mocha, Chai, Jest, Puppeteer
+- **Databases**: SQL, MongoDB
+- **Tools**: Docker, AWS EC2, Terraform, Grunt.js
+- **CMS**: WordPress
+
+### Projects
+Here are some projects I've worked on recently:
+- Notes App
+
+### Skills
+- **Frontend**: Responsive Web Design, UI/UX Development
+- **Backend**: RESTful API Development, Server-side Logic
+- **Testing**: Unit Testing, End-to-End Testing
+- **DevOps**: Docker, AWS, Terraform
+- **Database**: SQL, MongoDB
+- **Tools**: Git, Grunt.js
+
+### Connect with Me
+- GitHub: <a href="github.com/ShamariLewis">github.com/ShamariLewis<a/>
+- LinkedIn: <a href="https://www.linkedin.com/in/shamarilewis/">linkedin.com/in/shamarilewis/</a>
+
+### Let's Collaborate!
+I'm always open to collaboration and new opportunities. Feel free to reach out if you have a project in mind or just want to connect!
+
+Happy Coding! 🚀
+
