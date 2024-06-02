@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## Full Stack Software Engineer
 
 ### About Me
-Highly motivated, flexible, and adaptable Software Engineer with a passion for developing scalable, secured web applications. I possess a solid foundation in both front-end and back-end development, with proven ability at designing web applications, and creating API's with a strong focus on security and efficiency to connect your data pipelines..
+Highly motivated, flexible, and adaptable Software Engineer with a passion for developing scalable, secured web applications. I possess a solid foundation in both front-end and back-end development, with proven ability at designing web applications, and creating API's with a strong focus on security and efficiency to connect your data pipelines.
 
 ### Tech Stack
 - **Languages**: JavaScript, TypeScript
