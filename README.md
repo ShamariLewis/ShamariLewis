@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## Full Stack Software Engineer
 
 ### About Me
-I am a passionate and experienced Full Stack Software Engineer with skills in a wide range of technologies. My journey in the world of development has equipped me with skills in both frontend and backend technologies, allowing me to create robust and scalable applications.
+Highly motivated, flexible, and adaptable Software Engineer with a passion for developing scalable, secured web applications. I possess a solid foundation in both front-end and back-end development, with proven ability at designing web applications, and creating API's with a strong focus on security and efficiency to connect your data pipelines..
 
 ### Tech Stack
 - **Languages**: JavaScript, TypeScript
