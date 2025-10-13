@@ -27,12 +27,16 @@ Always exploring new tools and improving projects
 ### Tech Stack
 - **Languages**: JavaScript, TypeScript
 - **Backend**: Node.js, Express, tRPC
-- **Frontend**: React, Next.js, HTML, TailwindCSS, Astro.js, Bootstrap
-- **Testing**: Mocha, Chai, Jest, Puppeteer
-- **Databases**: PostgreSQL, MongoDB
-- **Tools**: Docker, AWS EC2,
+- **Frontend**: React, Next.js, Astro.js,
+- **Styling Frameworks**: Tailwind CSS, Bootstrap, Shadcn UI, Material UI
+- **State Management**: Redux, Tanstack Query
+- **Databases & ORM**: PostgreSQL, MongoDB, Prisma, Redis
 - **Version Control**: Github
-- **CI/CD**: Github Actions
+- **CI/CD**: Docker & Github Actions
+- **Deployment**: AWS, Netlify, Vercel,
+- **Authentication**: Auth.js, Passport, JWT, Clerk
+- **Testing**: Mocha, Chai, Jest, Puppeteer
+- **Project Management/Collaboration**: Jira
 - **Prototyping**: Figma
 
 ### Projects
