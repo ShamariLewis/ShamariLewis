@@ -19,16 +19,21 @@ Here are some ideas to get you started:
 ## Full Stack Software Engineer
 
 ### About Me
-Highly motivated, flexible, and adaptable Software Engineer with a passion for developing scalable, secured web applications. I possess a solid foundation in both front-end and back-end development, with proven ability at designing web applications, and creating API's with a strong focus on security and efficiency to connect your data pipelines.
+Full-Stack Engineer | React • Next.js • TypeScript • Node.js • tRPC • PostgreSQL
+Building scalable web applications with clean frontend & backend architecture.
+Passionate about modern web development, CI/CD automation, and DevOps.
+Always exploring new tools and improving projects
 
 ### Tech Stack
 - **Languages**: JavaScript, TypeScript
-- **Backend**: Node.js, Express
-- **Frontend**: HTML, CSS, Sass, React
+- **Backend**: Node.js, Express, tRPC
+- **Frontend**: React, Next.js, HTML, TailwindCSS, Astro.js, Bootstrap
 - **Testing**: Mocha, Chai, Jest, Puppeteer
-- **Databases**: SQL, MongoDB
-- **Tools**: Docker, AWS EC2, Terraform, Grunt.js
-- **CMS**: WordPress
+- **Databases**: PostgreSQL, MongoDB
+- **Tools**: Docker, AWS EC2,
+- **Version Control**: Github
+- **CI/CD**: Github Actions
+- **Prototyping**: Figma
 
 ### Projects
 Here are some projects I've worked on recently:
