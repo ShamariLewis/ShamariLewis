@@ -41,7 +41,13 @@ Always exploring new tools and improving projects
 
 ### Projects
 Here are some projects I've worked on recently:
-- Notes App
+**DevMart** - A full-stack E-Commerce platform, built with Next.js 15, demonstrating
+enterprise grade architecture patterns, modern development workflows, and production
+ready implementations.
+
+**P&D Pristine Cleaning Co** - Developed the full website for P&D Pristine Cleaning Co
+with Astrojs, including responsive UI, service pages, booking flow, and SEO
+optimization to improve their online visibility.
 
 ### Skills
 - **Frontend**: Responsive Web Design, UI/UX Development
