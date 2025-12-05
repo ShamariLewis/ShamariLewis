@@ -46,7 +46,7 @@ Here are some projects I've worked on recently:
 enterprise grade architecture patterns, modern development workflows, and production
 ready implementations.
 
-**P&D Pristine Cleaning Co** - Developed the full website for P&D Pristine Cleaning Co
+**[P&D Pristine Cleaning Co](https://pdpristinecleaning.com/)** - Developed the full website for P&D Pristine Cleaning Co
 with Astrojs, including responsive UI, service pages, booking flow, and SEO
 optimization to improve their online visibility.
 
