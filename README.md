@@ -41,6 +41,7 @@ Always exploring new tools and improving projects
 
 ### Projects
 Here are some projects I've worked on recently:
+
 **DevMart** - A full-stack E-Commerce platform, built with Next.js 15, demonstrating
 enterprise grade architecture patterns, modern development workflows, and production
 ready implementations.
